@@ -1,5 +1,9 @@
 # SmartBots - A Smarthome for every-home
 
+IoT project - cheap solution for smarthome, a network consists of multiple bots, helps people in control of electronics by attaching these bots onto the switch, button, plug,... instead of replaces them. This project can help people set up a smart home easily at low-cost. Contest in many major competitions in Vietnam and won high prizes.
+
+Built on top of Laravel, NodeJS, and Arduino, Intel Edison.
+
 ![](https://i.imgur.com/xPDf9Zo.jpg)
 
 ![](https://i.imgur.com/xtcHFIl.jpg)
